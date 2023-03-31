@@ -1,0 +1,38 @@
+/*
+h1 {
+    text-align: center;
+    font-weight: normal;
+    text-decoration: #F122A1 underline wavy;
+    letter-spacing: 15px;
+    font-size: 100px;
+    font-family: lucida grande, candara, arial;
+    font-family: fantasy;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 2;
+}
+
+*/
+
+body {
+    color: purple;
+}
+
+section {
+    color: aqua;
+}
+
+
+form {
+    color: greenyellow;
+}
+
+button,
+input {
+    color: inherit;
+}
